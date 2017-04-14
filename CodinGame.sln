@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium.SkynetRevolutionEpis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium.ThereIsNoSpoonEpisode1", "Medium.ThereIsNoSpoonEpisode1\Medium.ThereIsNoSpoonEpisode1.csproj", "{4D79AAEC-9E48-4AA2-8D7C-FDDEC9BACFAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium.BenderEpisode1", "Medium.BenderEpisode1\Medium.BenderEpisode1.csproj", "{49891BFA-60DA-4C41-91A6-11AF93DACE86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{4D79AAEC-9E48-4AA2-8D7C-FDDEC9BACFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D79AAEC-9E48-4AA2-8D7C-FDDEC9BACFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D79AAEC-9E48-4AA2-8D7C-FDDEC9BACFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49891BFA-60DA-4C41-91A6-11AF93DACE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49891BFA-60DA-4C41-91A6-11AF93DACE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49891BFA-60DA-4C41-91A6-11AF93DACE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49891BFA-60DA-4C41-91A6-11AF93DACE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,5 +131,6 @@ Global
 		{4AD6EBF3-04B4-41F7-9E36-5BEF82398819} = {8C016667-4CC4-4FDA-B090-43FCA6876652}
 		{70E612A8-4E45-436D-A63F-13051162D3D2} = {48B46968-2E91-47B9-B5E1-904CA812D7E4}
 		{4D79AAEC-9E48-4AA2-8D7C-FDDEC9BACFAF} = {48B46968-2E91-47B9-B5E1-904CA812D7E4}
+		{49891BFA-60DA-4C41-91A6-11AF93DACE86} = {48B46968-2E91-47B9-B5E1-904CA812D7E4}
 	EndGlobalSection
 EndGlobal
