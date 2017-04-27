@@ -15,25 +15,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium.MayanCalculation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium.Scrabble", "Medium.Scrabble\Medium.Scrabble.csproj", "{3310CD92-E07D-4924-8AEF-C9FBFD0D20AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.ASCIIArt", "Esay.ASCIIArt\Easy.ASCIIArt.csproj", "{54669011-52B9-459D-8797-BA94C53C791E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.ASCIIArt", "Easy.ASCIIArt\Easy.ASCIIArt.csproj", "{54669011-52B9-459D-8797-BA94C53C791E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.ChuckNorris", "Esay.ChuckNorris\Easy.ChuckNorris.csproj", "{78C5693E-40F2-4086-8C79-0C18CC4AB6BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.ChuckNorris", "Easy.ChuckNorris\Easy.ChuckNorris.csproj", "{78C5693E-40F2-4086-8C79-0C18CC4AB6BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Defibrillators", "Esay.Defibrillators\Easy.Defibrillators.csproj", "{8FA654DF-F9E3-48B1-9CBF-AAA8EBFA765C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Defibrillators", "Easy.Defibrillators\Easy.Defibrillators.csproj", "{8FA654DF-F9E3-48B1-9CBF-AAA8EBFA765C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.HorseRacingDuals", "Esay.HorseRacingDuals\Easy.HorseRacingDuals.csproj", "{67403421-94DA-47CD-A915-C186907FAF60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.HorseRacingDuals", "Easy.HorseRacingDuals\Easy.HorseRacingDuals.csproj", "{67403421-94DA-47CD-A915-C186907FAF60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.MarsLanderLevelOne", "Esay.MarsLanderLevelOne\Easy.MarsLanderLevelOne.csproj", "{9BA6A94F-C895-4D80-AC94-ACF66B08DCC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.MarsLanderLevelOne", "Easy.MarsLanderLevelOne\Easy.MarsLanderLevelOne.csproj", "{9BA6A94F-C895-4D80-AC94-ACF66B08DCC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.MIMEType", "Esay.MIMEType\Easy.MIMEType.csproj", "{412C6BB9-A402-4C84-B651-688B1F2E1D8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.MIMEType", "Easy.MIMEType\Easy.MIMEType.csproj", "{412C6BB9-A402-4C84-B651-688B1F2E1D8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.PowerOfThor", "Esay.PowerOfThor\Easy.PowerOfThor.csproj", "{5AA7731E-C647-4DFD-8C40-D848837B3BC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.PowerOfThor", "Easy.PowerOfThor\Easy.PowerOfThor.csproj", "{5AA7731E-C647-4DFD-8C40-D848837B3BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.SkynetTheChasm", "Esay.SkynetTheChasm\Easy.SkynetTheChasm.csproj", "{FE0603D5-A594-4F1A-A54A-052C41091DAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.SkynetTheChasm", "Easy.SkynetTheChasm\Easy.SkynetTheChasm.csproj", "{FE0603D5-A594-4F1A-A54A-052C41091DAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Temperatures", "Esay.Temperatures\Easy.Temperatures.csproj", "{F13FC4E3-5D09-4FD1-BF9A-75DCEBB0E0AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Temperatures", "Easy.Temperatures\Easy.Temperatures.csproj", "{F13FC4E3-5D09-4FD1-BF9A-75DCEBB0E0AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.TheDescent", "Esay.TheDescent\Easy.TheDescent.csproj", "{4AD6EBF3-04B4-41F7-9E36-5BEF82398819}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.TheDescent", "Easy.TheDescent\Easy.TheDescent.csproj", "{4AD6EBF3-04B4-41F7-9E36-5BEF82398819}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium.SkynetRevolutionEpisode1", "Medium.SkynetRevolutionEpisode1\Medium.SkynetRevolutionEpisode1.csproj", "{70E612A8-4E45-436D-A63F-13051162D3D2}"
 EndProject
